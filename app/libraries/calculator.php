@@ -1,6 +1,6 @@
 <?php
 
-namespace sample;
+namespace app\libraries;
 class calculator{
 
 
